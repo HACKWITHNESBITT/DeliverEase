@@ -70,5 +70,4 @@ Built With
 
 Try it out
 
-<button>app-axkdlmipzzlt.appmedo.com</button>
-
+https://app-axkdlmipzzlt.appmedo.com/
